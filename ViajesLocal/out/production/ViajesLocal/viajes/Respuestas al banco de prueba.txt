@@ -1,0 +1,11 @@
+1 si
+2 si
+3 si
+4 si
+5 si, no porque se guarda cuando cerramos la app con el 0.
+6 no porque soy el conductor
+7
+8 No porque la oferta esta en el diccionario no el JSON, el primer cliente debe salir de la aplicacion
+9 Depende, si los 3 clientes inician sesion a la vez, los 3 tendran la misma version del JSON, asi que aunque uno lo modifique y cierre sesion, los otros tendran cargados en sus diccionarios la version antigua,
+no es hasta que cierren sesion y inicien de nuevo, que su diccionario se llenara con la ultima version del JSON en la cual saldra la oferta del cliente 1.
+10 Sí
